@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\Trabajo Final Taller de programacion\Trabajo Final Taller de programacion\bin\Debug\Trabajo Final Taller de programacion.exe.config
+C:\Users\HP\source\repos\Trabajo Final Taller de programacion\Trabajo Final Taller de programacion\bin\Debug\Trabajo Final Taller de programacion.exe
+C:\Users\HP\source\repos\Trabajo Final Taller de programacion\Trabajo Final Taller de programacion\bin\Debug\Trabajo Final Taller de programacion.pdb
+C:\Users\HP\source\repos\Trabajo Final Taller de programacion\Trabajo Final Taller de programacion\obj\Debug\Trabajo Final Taller de programacion.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Trabajo Final Taller de programacion\Trabajo Final Taller de programacion\obj\Debug\Trabajo_Final_Taller_de_programacion.Autentificación.resources
+C:\Users\HP\source\repos\Trabajo Final Taller de programacion\Trabajo Final Taller de programacion\obj\Debug\Trabajo_Final_Taller_de_programacion.Properties.Resources.resources
+C:\Users\HP\source\repos\Trabajo Final Taller de programacion\Trabajo Final Taller de programacion\obj\Debug\Trabajo_Final_Taller_de_programacion.Registro_Sueldo_del_Trabajador.resources
+C:\Users\HP\source\repos\Trabajo Final Taller de programacion\Trabajo Final Taller de programacion\obj\Debug\Trabajo Final Taller de programacion.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Trabajo Final Taller de programacion\Trabajo Final Taller de programacion\obj\Debug\Trabajo Final Taller de programacion.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Trabajo Final Taller de programacion\Trabajo Final Taller de programacion\obj\Debug\Trabajo Final Taller de programacion.exe
+C:\Users\HP\source\repos\Trabajo Final Taller de programacion\Trabajo Final Taller de programacion\obj\Debug\Trabajo Final Taller de programacion.pdb
+C:\Users\HP\source\repos\Trabajo Final Taller de programacion\Trabajo Final Taller de programacion\obj\Debug\Trabajo_Final_Taller_de_programacion.Listar_trabajadores.resources
+C:\Users\HP\source\repos\Trabajo Final Taller de programacion\Trabajo Final Taller de programacion\obj\Debug\Trabajo_Final_Taller_de_programacion.Administrador.resources
